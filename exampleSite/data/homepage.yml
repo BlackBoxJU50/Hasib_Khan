@@ -53,3 +53,5 @@ portfolio:
   filter:
     - label: Web Dev
       value: web-dev
+     - label: IOT
+      value: IOT
